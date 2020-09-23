@@ -232,6 +232,7 @@ int main()
     return 0;
 }
 */
+// Application of c++ stl to solve a problem:
 int main()
 {
     int n;
