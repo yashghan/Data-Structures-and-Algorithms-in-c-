@@ -1,4 +1,4 @@
-1)A //INSERTION OF NODE IN A BINARY SEARCH TREE using queues:
+//INSERTION OF NODE IN A BINARY SEARCH TREE using queues:
 
 
 
@@ -96,7 +96,7 @@ int main(){
 
 
 
-B)INSERTION OF NODE IN BST (USING RECURSION):
+// B)INSERTION OF NODE IN BST (USING RECURSION):
 
 // Binary Search Tree - Implemenation in C++
 // Simple program to create a BST of integers and search an element in it 
@@ -188,7 +188,7 @@ int main() {
 
 
 
-2)//TO FIND LEFT SIDE VIEW OF A BINARY TREE
+//TO FIND LEFT SIDE VIEW OF A BINARY TREE
 
 ITERATIVE METHOD:
 
